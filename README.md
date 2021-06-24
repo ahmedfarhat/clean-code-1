@@ -20,7 +20,7 @@ In this repo you can find my notes for [Clean Code](http://www.amazon.com/Clean-
 - Pick one word per abstract concept and stick with it *(ex. `get`, `retrieve`, `fetch` are all equivalent so pick one)*
 - The author is responsible for making his code clear
 - Add prefixes as a last resort
-- [View More](/src/main/java/naming/naming.md)
+- [View More](/naming.md)
 
 
 <a name="functions"></a>
